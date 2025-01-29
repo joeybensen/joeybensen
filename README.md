@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hello! <br/>I am a <a href="https://www.belmont.edu/">Belmont</a> Student</h1>
+<h1>Hello! My name is Joseph Bensen <br/>I am currently a student at <a href="https://www.belmont.edu/">Belmont</a></h1>
 
 <h2>Current Projects:</h2>
 
