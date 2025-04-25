@@ -4,7 +4,7 @@
 <h2>Current Projects:</h2>
 
 - <b>Artifical Intelligence and Deep Learing</b>
-  - [CNN grading IHC Tumor Imaging]
+  - [CNN Classifying IHC Tumor Imaging]
   - [Basic MNIST CNN Jupyter Notebook]
 <h2> How to connect with me:</h2>
 
