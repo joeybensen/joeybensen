@@ -12,7 +12,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: hhttps://x.com/BensenJoey98004
+[twitter]: https://x.com/BensenJoey98004
 [linkedin]: https://www.linkedin.com/in/joey-bensen-66ab861b2/
 
 <!--
