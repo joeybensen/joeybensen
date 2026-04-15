@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hello! My name is Joseph Bensen <br/>And I Graduated from <a href="https://www.belmont.edu/">Belmont</a> with a degree in data science</h1>
+<h1>Hello! My name is Joseph Bensen <br/>And I Graduated from <a href="https://www.belmont.edu/">Belmont</a> with a degree in data science!</h1>
 
 <h2>Current Projects:</h2>
 
