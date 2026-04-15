@@ -10,8 +10,8 @@
 <h2>Finished Projects:</h2>
 
 - <b>Artifical Intelligence and Deep Learing</b>
-  - [CNN Classifying IHC Tumor Imaging] https://github.com/joeybensen/CNN_Histology
-  - [Basic MNIST CNN Jupyter Notebook] https://github.com/joeybensen/Deep-Learning
+  - [CNN Classifying IHC Tumor Imaging] (https://github.com/joeybensen/CNN_Histology)
+  - [Basic MNIST CNN Jupyter Notebook] (https://github.com/joeybensen/Deep-Learning)
 
 <h2> How to connect with me:</h2>
 
