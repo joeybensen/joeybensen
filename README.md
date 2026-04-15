@@ -3,9 +3,16 @@
 
 <h2>Current Projects:</h2>
 
+- <b>Web Scraping Data Science</b>
+  - [CNN Classifying IHC Tumor Imaging] https://github.com/joeybensen/CNN_Histology
+  
+    
+<h2>Finished Projects:</h2>
+
 - <b>Artifical Intelligence and Deep Learing</b>
   - [CNN Classifying IHC Tumor Imaging] https://github.com/joeybensen/CNN_Histology
   - [Basic MNIST CNN Jupyter Notebook] https://github.com/joeybensen/Deep-Learning
+
 <h2> How to connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
