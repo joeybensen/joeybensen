@@ -4,7 +4,7 @@
 <h2>Current Projects:</h2>
 
 - <b>Web Scraping Data Science</b>
-  - [CNN Classifying IHC Tumor Imaging] https://github.com/joeybensen/CNN_Histology
+  - [NHL Webscrape Project](https://github.com/joeybensen/NHL_Scrape_ML)
   
     
 <h2>Finished Projects:</h2>
